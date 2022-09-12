@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\bin\Debug\Consumo Médio.exe.config
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\bin\Debug\Consumo Médio.exe
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\bin\Debug\Consumo Médio.pdb
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\obj\Debug\Consumo Médio.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\obj\Debug\Consumo Médio.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\obj\Debug\Consumo_Médio.Form1.resources
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\obj\Debug\Consumo_Médio.Properties.Resources.resources
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\obj\Debug\Consumo Médio.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\obj\Debug\Consumo Médio.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\obj\Debug\Consumo Médio.exe
+C:\Users\SENAI\Documents\Ricardo Sena\Consumo Médio\Consumo Médio\obj\Debug\Consumo Médio.pdb
